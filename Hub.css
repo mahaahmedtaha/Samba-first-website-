@@ -1,0 +1,162 @@
+body{
+	background-color: #808080;
+	background-image: url(imags/samba.png) ;
+	background-size: cover;
+
+}
+#Page{
+	position: relative;
+	width: 97%;
+	height: 1000px;
+    background-color:#f2f2f2 ;
+    margin: 0 auto;
+}
+#header{
+   
+   /*width:98% ;*/
+   width: 1293px;  
+   height: 250px;
+   margin:0 auto ;
+   background-color: #999;
+   background-image: url(imags/websiteCover1.png) ;
+   background-repeat: no-repeat;
+   /*background-size:800px 350px;*/
+   background-size: cover;
+   
+
+}
+#Nav{
+	width: 98%;
+	height: 30px;
+	background-color: #4d0000;
+	margin: 10px 13px;
+    padding: 5px 0;
+}
+input{
+	margin-top: -25px;
+    margin-left: 815px;
+    width: 27%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    display: block;
+    border-radius: 7px;
+    background-color: #660000;
+    font-size:15px;
+
+    
+}
+
+ul {
+	position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding-top: 8px;
+    overflow: hidden;
+    background-color: transparent;
+}
+li {
+    float: left;
+}
+li a{
+	background-color: transparent;
+	color: white;
+	display: inline;
+	text-align: center;
+    padding: 100px 8px 0px 40px;
+	text-decoration: none;
+}
+li a:hover{
+     color: #ff6666;
+     /*background-color: #ffe6e6;*/
+     border-radius:5px; 
+}
+#side{
+	
+	width: 22%;
+	float: left;
+	margin-left:920px;
+	margin-top:20px; 
+	padding-right: 7px;
+	padding-top: 5px;
+	background-color: #d9d9d9;
+	height: 600px;
+
+}
+h2{  
+	font-family: sans-serif;
+	font-size: 35px;
+	margin-top:10px ;
+	/*margin-left: 100px;*/
+	text-align: center; 
+}
+aside li a{
+	background-color: transparent;
+	color: #4d0000;
+	display: block;
+	text-align: center;
+	padding: 8px 8px 8px 0px;
+	margin-left:70px; 
+	font-family: sans-serif;
+	font-size: 35px;
+	text-align: center;
+	
+}
+aside ul {
+	position: relative;
+    margin: 0;
+    padding: 0px;
+    background-color: transparent;
+}
+aside li {
+   
+}
+aside li a:hover{
+     color: #990000;
+     background-color: #ffe6e6;
+     border-radius:10px; 
+}
+h3{
+	color: red;
+	
+}
+
+.insidecontent{
+	
+	background-color:#d9d9d9;
+     width: 750px;
+     height: 600px; 
+     margin-top:20px; 
+     margin-left: 40px;
+     float: left;
+     position: absolute;
+
+}
+.insidecontent p{
+    margin: 0;
+    color: #262626;
+    font-family:     Tahoma;
+    line-height: 150%;
+    padding: 10px 10px;
+    width: 700px;
+}
+
+h1{
+    color:  black;
+    margin: 0;
+    font-family: Times;
+    font-weight: normal;
+    padding-left: 10px ;
+    padding-top: 10px;
+}
+#Footer p{
+	background-color: white;
+	margin-top: 650px;
+	height: 50px;
+	padding-top: 7px;
+	text-align: center;
+	font-family:    Tahoma;
+    color: black;
+
+}
+
